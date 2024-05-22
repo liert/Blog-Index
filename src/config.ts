@@ -80,15 +80,15 @@ const GLOBAL_CONFIG = {
   /**
    * 博客名称
    */
-  BLOG_NAME: "liert",
+  BLOG_NAME: "",
   /**
    * 个人博客链接
    */
-  BLOG_URL: "https://github.com/liert",
+  BLOG_URL: "",
   /**
    * 指定中心 LOGO 图片地址
    */
-  LOGO_URL: https://pic.imgdb.cn/item/664e1070d9c307b7e9456927.png,
+  LOGO_URL: "https://pic.imgdb.cn/item/664e1070d9c307b7e9456927.png",
   /**
    * 个人 Github 链接
    */
