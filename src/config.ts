@@ -14,31 +14,31 @@ const WEBSITE_SORTS: WebsiteSort[] = [
         title: "CTF Wiki",
         description: "CTF Wiki",
         url: "https://ctf-wiki.org",
-        icon: "https://ctf-wiki.org/favico.png",
+        icon: "https://ctf-wiki.org/assets/images/favicon.png",
       },
       {
         title: "CTFShow",
         description: "CTFShow",
-        url: "https://ctf.show/favico.png",
-        icon: "",
+        url: "https://ctf.show",
+        icon: "https://ctf.show/files/3927d3294176f912a38d835fab6196a7/logo32.png",
       },
       {
         title: "BUUCTF",
         description: "BUUCTF",
         url: "https://buuoj.cn",
-        icon: "https://buuoj.cn/favico.png",
+        icon: "https://buuoj.cn/themes/buu_core/static/img/favicon.ico",
       },
       {
         title: "XCTF",
         description: "XCTF",
         url: "https://adworld.xctf.org.cn",
-        icon: "https://adworld.xctf.org.cn/favico.png",
+        icon: "",
       },
       {
         title: "NSSCTF",
         description: "NSSCTF",
         url: "https://www.nssctf.cn",
-        icon: "https://www.nssctf.cn/favico.png",
+        icon: "https://www.nssctf.cn/favicon.ico",
       },
       {
         title: "CTF 竞赛入门指南",
@@ -80,15 +80,15 @@ const GLOBAL_CONFIG = {
   /**
    * 博客名称
    */
-  BLOG_NAME: "liert-Blog",
+  BLOG_NAME: "",
   /**
    * 个人博客链接
    */
-  BLOG_URL: "https://blog.liert.xyz",
+  BLOG_URL: "",
   /**
    * 指定中心 LOGO 图片地址
    */
-  LOGO_URL: null,
+  LOGO_URL: https://pic.imgdb.cn/item/664e1070d9c307b7e9456927.png,
   /**
    * 个人 Github 链接
    */
@@ -96,7 +96,7 @@ const GLOBAL_CONFIG = {
   /**
    * 背景图片地址
    */
-  BACKGROUND_IMG_URL: "https://api.dujin.org/bing/1920.php",
+  BACKGROUND_IMG_URL: "https://pic.imgdb.cn/item/6355258616f2c2beb160176a.jpg",
   /**
    * ICP 备案号，留空不显示
    */
@@ -108,7 +108,6 @@ const GLOBAL_CONFIG = {
    */
   SLOGANS: [
     "欢迎拜访",
-    "歡迎拜訪",
     "Welcome, my friend!",
     "訪問へようこそ",
     "嗨，别来无恙",
@@ -129,7 +128,7 @@ const GLOBAL_CONFIG = {
    * 网站 Title Keywords Description 的配置，用于 SEO
    */
   TKD: {
-    title: "My Blog Index",
+    title: "liert",
     keywords: "Blog, Index, Index Page",
     description: "This is my personal blog index page.",
   },
