@@ -88,7 +88,7 @@ const GLOBAL_CONFIG = {
   /**
    * 指定中心 LOGO 图片地址
    */
-  LOGO_URL: "https://pic.imgdb.cn/item/664e1070d9c307b7e9456927.png",
+  LOGO_URL: "https://liert.github.io/head_portrait.png",
   /**
    * 个人 Github 链接
    */
@@ -96,7 +96,7 @@ const GLOBAL_CONFIG = {
   /**
    * 背景图片地址
    */
-  BACKGROUND_IMG_URL: "https://pic.imgdb.cn/item/6355258616f2c2beb160176a.jpg",
+  BACKGROUND_IMG_URL: "https://liert.github.io/background.png",
   /**
    * ICP 备案号，留空不显示
    */
